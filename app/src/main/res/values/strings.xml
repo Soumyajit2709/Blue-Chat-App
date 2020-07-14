@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blue Chat</string>
+    <string name="switch_on_bluetooth">Switch On Bluetooth</string>
+    <string name="search_devices">Search Devices</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="available_devices">Available Devices</string>
+</resources>
